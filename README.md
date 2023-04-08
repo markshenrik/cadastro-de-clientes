@@ -22,7 +22,7 @@
 <h3>📱 Mobile</h3>
 
 <div style="display:flex; justify-content:center; margin-bottom: 15px">
-  <img src="./assets/Mobile.gif" alt="Mobile gif" />
+  <img src="./assets/mobile.gif" alt="Mobile gif" />
 </div>
 
 
